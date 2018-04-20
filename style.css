@@ -11,7 +11,7 @@ body {
 }
 
 #board > div {
-    background: url(img/card.gif) no-repeat;
+    background: url(img/card.png) no-repeat;
     background-position: center;
     background-size: cover;
     border: black 1px solid;

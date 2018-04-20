@@ -43,9 +43,9 @@ function memoryFlipTile(tile,val){
 				function flip2Back(){
 				    var tile_1 = document.getElementById(tableTileIds[0]);
 				    var tile_2 = document.getElementById(tableTileIds[1]);
-				    tile_1.style.background = 'url("img/card.gif") no-repeat center center / cover';
+				    tile_1.style.background = 'url("img/card.png") no-repeat center center / cover';
             	    tile_1.innerHTML = "";
-				    tile_2.style.background = 'url("img/card.gif") no-repeat center center / cover';
+				    tile_2.style.background = 'url("img/card.png") no-repeat center center / cover';
             	    tile_2.innerHTML = "";
 				    tableValues = [];
             	    tableTileIds = [];
